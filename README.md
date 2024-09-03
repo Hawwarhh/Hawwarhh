@@ -60,8 +60,6 @@ Tools & Technologies: I am proficient in a range of data analysis tools, includi
 - **BSc. Computer Science** - Al-Qalam University, Katsina
 
 ## 📊 Projects
-- **[Kaduna State Medical CPI Analysis (2019-2022)](https://drive.google.com/file/d/1qhdsPpDFXmFDlqmtZz3jMsQXOXVQBzU9/view?usp=sharing)**
-- **[Web Traffic Data Analysis for Online Store](https://docs.google.com/presentation/d/1pp6WUVxUrIT_gx8AbJ-PxTCcQqxdBYR8hMLoR4oldU4/edit#slide=id.p)**
 - **[Forbes Top 2000 Business Data Analysis](https://drive.google.com/file/d/18pFPrY62pbsbBbICdi6tBmuGDIGwCoYr/view?usp=drive_link)**
 - **[Udemy Business Data Analysis](https://drive.google.com/file/d/18pFPrY62pbsbBbICdi6tBmuGDIGwCoYr/view?usp=drive_link)**
 
